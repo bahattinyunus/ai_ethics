@@ -261,6 +261,3 @@ Ve bir gün, tarih kitaplarında “Yapay Zekâ Devrimi”nden bahsedilirken, k�
 
 > “Teknolojiyi insanlıkla barıştıranlar, etik uzmanlarıydı.”
 
-#   a i _ e t h i c s 
- 
- 
