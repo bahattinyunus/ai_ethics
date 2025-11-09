@@ -35,6 +35,9 @@ ENV/
 *~
 .DS_Store
 
+# Cursor IDE
+.cursor/
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
