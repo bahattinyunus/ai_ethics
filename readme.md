@@ -13,6 +13,7 @@
 - [Nasıl Uzman Olunur?](#-nasıl-uzman-olunur)
 - [Gelecek Perspektifi](#-gelecek-perspektifi)
 - [Yol Haritası](#-yapay-zeka-etik-ve-denetim-uzmanlığı-yol-haritası)
+- [Pratik Örnekler](#-pratik-örnekler)
 - [Geleceğin Vicdanı](#-yapay-zeka-etik-uzmanlığı-geleceğin-vicdanı)
 
 ---
@@ -223,6 +224,29 @@ Yani bu meslek birkaç yıl içinde, **“siber güvenlik uzmanı kadar strateji
 * AI Explainability ve model izleme sistemleri
 
 
+
+## 💻 **Pratik Örnekler**
+
+Bu repoda, AI etik denetimi için pratik kod örnekleri bulunmaktadır. `examples/` klasöründe:
+
+- **`bias_detection_example.py`** - Bias (önyargı) tespiti örneği
+- **`model_explainability_example.py`** - Model açıklanabilirliği (SHAP) örneği
+- **`ethics_checklist.py`** - Etik denetim checklist script'i
+
+Detaylı bilgi için [examples/README.md](examples/README.md) dosyasına bakın.
+
+### Hızlı Başlangıç
+
+```bash
+# Örnekleri çalıştırmak için
+cd examples
+pip install -r requirements.txt
+python bias_detection_example.py
+python model_explainability_example.py
+python ethics_checklist.py
+```
+
+---
 
 ## ⚖️ **Yapay Zeka Etik Uzmanlığı: Geleceğin Vicdanı**
 
