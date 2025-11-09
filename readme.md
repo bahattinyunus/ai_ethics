@@ -1,4 +1,21 @@
+# 🤖 Yapay Zeka Etik ve Denetim Uzmanlığı Rehberi
 
+> **Teknolojinin vicdan mühendisleri** - Yapay zekâ sistemlerinin etik, yasal ve insani değerlere uygun şekilde geliştirilmesini sağlayan uzmanlık alanı.
+
+---
+
+## 📑 İçindekiler
+
+- [Yapay Zeka Etik ve Denetim Uzmanı Kimdir?](#-yapay-zeka-etik-ve-denetim-uzmanı-kimdir)
+- [Ne İş Yaparlar?](#-ne-iş-yaparlar)
+- [Hangi Alanlarda Çalışabilirler?](#-hangi-alanlarda-çalışabilirler)
+- [Gereken Yetkinlikler](#-gereken-yetkinlikler)
+- [Nasıl Uzman Olunur?](#-nasıl-uzman-olunur)
+- [Gelecek Perspektifi](#-gelecek-perspektifi)
+- [Yol Haritası](#-yapay-zeka-etik-ve-denetim-uzmanlığı-yol-haritası)
+- [Geleceğin Vicdanı](#-yapay-zeka-etik-uzmanlığı-geleceğin-vicdanı)
+
+---
 
 ### 🧠 **Yapay Zeka Etik ve Denetim Uzmanı Kimdir?**
 
