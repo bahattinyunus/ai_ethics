@@ -1,5 +1,11 @@
 # 🤖 Yapay Zeka Etik ve Denetim Uzmanlığı Rehberi
 
+![AI Ethics Banner](assets/banner.png)
+
+![License](https://img.shields.io/github/license/bahattinyunus/ai_ethics?style=flat-square)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue?style=flat-square)
+![Status](https://img.shields.io/badge/status-active-success?style=flat-square)
+
 > **Teknolojinin vicdan mühendisleri** - Yapay zekâ sistemlerinin etik, yasal ve insani değerlere uygun şekilde geliştirilmesini sağlayan uzmanlık alanı.
 
 ---
@@ -15,6 +21,7 @@
 - [Yol Haritası](#-yapay-zeka-etik-ve-denetim-uzmanlığı-yol-haritası)
 - [Pratik Örnekler](#-pratik-örnekler)
 - [Geleceğin Vicdanı](#-yapay-zeka-etik-uzmanlığı-geleceğin-vicdanı)
+- [Kaynaklar](#-kaynaklar)
 
 ---
 
@@ -301,4 +308,13 @@ O kişi, bir **AI etik ve denetim uzmanı** olacak.
 Ve bir gün, tarih kitaplarında “Yapay Zekâ Devrimi”nden bahsedilirken, küçük bir dipnotta şu cümle yazacak:
 
 > “Teknolojiyi insanlıkla barıştıranlar, etik uzmanlarıydı.”
+
+---
+
+### 📚 **Kaynaklar**
+
+Bu repoda yer alan eğitim materyalleri:
+
+*   📄 [Eğitim Sunumu (PDF)](resources/Egitim_Sunumu.pdf) - Yapay zeka etiği üzerine kapsamlı sunum.
+*   📖 [Terimler Sözlüğü (PDF)](resources/Terimler_Sozlugu.pdf) - Alandaki temel kavramların açıklamaları.
 

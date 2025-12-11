@@ -1,0 +1,62 @@
+{
+  "proje_adi": "Kredi Değerlendirme Sistemi",
+  "tarih": "2025-12-11 13:29:38",
+  "checklist": {
+    "veri_etikligi": {
+      "veri_toplama_izni": true,
+      "veri_gizliligi": true,
+      "veri_kalitesi": false,
+      "veri_cesitliligi": false,
+      "veri_guvenligi": false
+    },
+    "model_etikligi": {
+      "bias_tespiti": true,
+      "adil_algoritma": false,
+      "aciklanabilirlik": true,
+      "performans_esitligi": false,
+      "model_dokumantasyonu": false
+    },
+    "uyumluluk": {
+      "gdpr_uyumlu": true,
+      "kvkk_uyumlu": true,
+      "ai_act_uyumlu": false,
+      "sektor_standartlari": false
+    },
+    "risk_yonetimi": {
+      "risk_analizi": false,
+      "sosyal_etki_degerlendirmesi": false,
+      "guvenlik_testleri": false,
+      "acil_durdurma_mekanizmasi": false
+    },
+    "seffaflik": {
+      "kullanici_bilgilendirmesi": true,
+      "karar_aciklamasi": true,
+      "raporlama": false,
+      "dokumantasyon": false
+    }
+  },
+  "notlar": {
+    "veri_etikligi_veri_toplama_izni": "KVKK uyumlu onay formları kullanılıyor",
+    "veri_etikligi_veri_gizliligi": "Veriler şifrelenmiş ve güvenli saklanıyor",
+    "model_etikligi_bias_tespiti": "AI Fairness 360 ile bias analizi yapıldı",
+    "model_etikligi_aciklanabilirlik": "SHAP kullanılarak model açıklanabilirliği sağlandı",
+    "uyumluluk_ai_act_uyumlu": "AI Act kategorisi belirlenmeli"
+  },
+  "riskler": [
+    {
+      "risk": "Cinsiyet bazlı bias tespit edildi, düzeltme gerekli",
+      "seviye": "yuksek",
+      "tarih": "2025-12-11"
+    },
+    {
+      "risk": "Model dokümantasyonu eksik",
+      "seviye": "orta",
+      "tarih": "2025-12-11"
+    }
+  ],
+  "ilerleme": {
+    "tamamlanan": 8,
+    "toplam": 22,
+    "yuzde": 36.36363636363637
+  }
+}
