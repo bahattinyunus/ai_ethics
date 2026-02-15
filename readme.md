@@ -239,6 +239,7 @@ Bu repoda, AI etik denetimi için pratik kod örnekleri bulunmaktadır. `example
 - **`bias_detection_example.py`** - Bias (önyargı) tespiti örneği
 - **`model_explainability_example.py`** - Model açıklanabilirliği (SHAP) örneği
 - **`ethics_checklist.py`** - Etik denetim checklist script'i
+- **`dashboard.py`** - (YENİ) İnteraktif Streamlit Dashboard'u. Bias ve model kararlarını görselleştirmek için.
 
 Detaylı bilgi için [examples/README.md](examples/README.md) dosyasına bakın.
 
@@ -248,6 +249,11 @@ Detaylı bilgi için [examples/README.md](examples/README.md) dosyasına bakın.
 # Örnekleri çalıştırmak için
 cd examples
 pip install -r requirements.txt
+
+# İnteraktif Dashboard'u Başlatmak İçin:
+streamlit run dashboard.py
+
+# Diğer scriptler:
 python bias_detection_example.py
 python model_explainability_example.py
 python ethics_checklist.py

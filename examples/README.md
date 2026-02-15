@@ -4,6 +4,18 @@ Bu klasör, AI etik denetimi için pratik kod örnekleri içerir.
 
 ## 📁 Dosyalar
 
+### 0. `dashboard.py` (YENİ!)
+**İnteraktif AI Etik Simülasyonu**
+
+Bias ve model kararlarını görselleştirmek için geliştirilmiş Streamlit uygulaması.
+
+**Kullanım:**
+```bash
+streamlit run dashboard.py
+```
+
+---
+
 ### 1. `bias_detection_example.py`
 **Bias (Önyargı) Tespiti Örneği**
 
